@@ -1,9 +1,9 @@
 pkgname=google-chrome-stable
-pkgver=134.0.6998.165
+pkgver=136.0.7103.113
 pkgrel=1
 arch=('x86_64')
 pkgdesc="The web browser from Google"
-packager="PrinceParshia <princeparshiajr@gmail.com>"
+packager="Chrome Linux Team <chromium-dev@chromium.org>"
 url="https://www.google.com/chrome/"
 license=('custom:Google')
 depends=('ca-certificates' 'ttf-liberation' 'alsa-lib' 'at-spi2-core' 'glibc' 'cairo' 'cups' 'curl' 'dbus' 'expat' 'mesa' 'glib2' 'gtk3' 'gtk4' 'nspr' 'nss' 'pango' 'systemd' 'vulkan-icd-loader' 'libx11' 'libxcb' 'libxcomposite' 'libxdamage' 'libxext' 'libxfixes' 'libxkbcommon' 'libxrandr' 'wget' 'xdg-utils')
